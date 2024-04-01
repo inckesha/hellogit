@@ -1,7 +1,9 @@
 ﻿
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n Pavel Dmitrievich i sinc repository";
+
+   cout << "Hello World!\n Pavel Dmitrievich i sinc repository";
 }
